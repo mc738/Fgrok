@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Fgrok", "Fgrok\Fgrok.fsproj", "{CEF9CAA3-CD2C-49A9-BFF1-3FB4A39AB10A}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Fgrok.App", "Fgrok.App\Fgrok.App.fsproj", "{2F3E4335-2054-4B29-AE5A-E9EE8A25C916}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEF9CAA3-CD2C-49A9-BFF1-3FB4A39AB10A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF9CAA3-CD2C-49A9-BFF1-3FB4A39AB10A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF9CAA3-CD2C-49A9-BFF1-3FB4A39AB10A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF9CAA3-CD2C-49A9-BFF1-3FB4A39AB10A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F3E4335-2054-4B29-AE5A-E9EE8A25C916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F3E4335-2054-4B29-AE5A-E9EE8A25C916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F3E4335-2054-4B29-AE5A-E9EE8A25C916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F3E4335-2054-4B29-AE5A-E9EE8A25C916}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
